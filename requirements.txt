@@ -1,0 +1,11 @@
+streamlit
+pinecone-client
+langchain
+langchain-community
+langchain-text-splitters
+langchain-pinecone
+sentence-transformers
+rouge-score
+pillow
+requests
+python-dotenv
