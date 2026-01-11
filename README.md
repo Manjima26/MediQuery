@@ -14,3 +14,8 @@ MediQuery is a Streamlit-based medical assistant that answers questions from a m
 1. Install dependencies
 ```bash
 pip install -r requirements.txt
+
+## Output Screenshots
+
+![Output 1](outputs/output1.png)
+![Output 2](outputs/output2.png)
